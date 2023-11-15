@@ -7,6 +7,11 @@
     <label for="yes{i}">Yes</label><br>
     <input type="radio" id="no{i}" name="question{i}" value="no">
     <label for="no{i}">No</label><br>
+
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
     
 
 2. Do you often find yourself lost in your thoughts?
