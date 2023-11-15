@@ -1,26 +1,44 @@
 # Introvert-Extrovert-survey
-# Creating the HTML content for the survey
 
-survey_questions = [
+
 Do you feel energized when you are around a lot of people?
+
 Do you often find yourself lost in your thoughts?
+
 Do you prefer working in a team or alone?
+
 After attending a social event, do you feel the need to spend time alone to recharge?
+
 Are you comfortable being the center of attention?
+
 Do you often reflect on your feelings and thoughts?
+
 Do you prefer having a wide circle of friends or a few close ones?
+
 Do you feel drained after social interactions, even if you enjoyed them?
+
 Do you enjoy engaging in small talk with strangers?
+
 Do you often engage in self-reflection or daydreaming?
+
 Do you feel more fulfilled after spending time with others or by yourself?
+
 Are you more likely to express your opinions in a group setting or keep them to yourself?
+
 Do you prefer attending large parties or small gatherings?
+
 Does spending an entire day alone sound enjoyable or boring to you?
+
 Do you often initiate conversations in social settings?
+
 Are you more focused on your inner world or the world around you?
+
 Do you prefer deep conversations with a few people over casual chats with many?
+
 Do you often feel the need to take breaks from social interaction?
+
 Are you quick to adapt to social situations?
+
 Do you often spend time exploring your thoughts and feelings through writing, art, or other solitary activities?
 ]
 
