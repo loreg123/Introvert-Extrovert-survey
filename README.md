@@ -1,4 +1,86 @@
 # Introvert-Extrovert-survey
+Introvert or Extrovert Survey
+
+1. Do you feel energized when you are around a lot of people?
+
+ Yes
+ No
+2. Do you often find yourself lost in your thoughts?
+
+ Yes
+ No
+3. Do you prefer working in a team or alone?
+
+ Yes
+ No
+4. After attending a social event, do you feel the need to spend time alone to recharge?
+
+ Yes
+ No
+5. Are you comfortable being the center of attention?
+
+ Yes
+ No
+6. Do you often reflect on your feelings and thoughts?
+
+ Yes
+ No
+7. Do you prefer having a wide circle of friends or a few close ones?
+
+ Yes
+ No
+8. Do you feel drained after social interactions, even if you enjoyed them?
+
+ Yes
+ No
+9. Do you enjoy engaging in small talk with strangers?
+
+ Yes
+ No
+10. Do you often engage in self-reflection or daydreaming?
+
+ Yes
+ No
+11. Do you feel more fulfilled after spending time with others or by yourself?
+
+ Yes
+ No
+12. Are you more likely to express your opinions in a group setting or keep them to yourself?
+
+ Yes
+ No
+13. Do you prefer attending large parties or small gatherings?
+
+ Yes
+ No
+14. Does spending an entire day alone sound enjoyable or boring to you?
+
+ Yes
+ No
+15. Do you often initiate conversations in social settings?
+
+ Yes
+ No
+16. Are you more focused on your inner world or the world around you?
+
+ Yes
+ No
+17. Do you prefer deep conversations with a few people over casual chats with many?
+
+ Yes
+ No
+18. Do you often feel the need to take breaks from social interaction?
+
+ Yes
+ No
+19. Are you quick to adapt to social situations?
+
+ Yes
+ No
+20. Do you often spend time exploring your thoughts and feelings through writing, art, or other solitary activities?
+
+ Yes
+ No
 
 
 1. Do you feel energized when you are around a lot of people?
